@@ -1,0 +1,21 @@
+# File and Directory Management Commands
+
+- **`ls`**: List directory contents.
+- **`cd`**: Change the current directory.
+- **`pwd`**: Print the current working directory.
+- **`mkdir`**: Create a new directory.
+- **`rmdir`**: Remove an empty directory.
+- **`rm`**: Remove files or directories.
+- **`cp`**: Copy files or directories.
+- **`mv`**: Move or rename files or directories.
+- **`touch`**: Create an empty file or update the timestamp of a file.
+- **`find`**: Search for files in a directory hierarchy.
+- **`locate`**: Find files by name.
+- **`stat`**: Display file or file system status.
+- **`file`**: Determine file type.
+- **`ln`**: Create links between files (hard and symbolic links).
+- **`du`**: Estimate file space usage.
+- **`df`**: Report file system disk space usage.
+- **`tree`**: Display directories as trees (requires installation).
+- **`basename`**: Strip directory and suffix from filenames.
+- **`dirname`**: Strip the last component from file name.

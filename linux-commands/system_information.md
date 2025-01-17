@@ -1,0 +1,22 @@
+# System Information Commands
+
+- **`uname`**: Print system information.
+- **`top`**: Display dynamic real-time system processes.
+- **`htop`**: Interactive process viewer (requires installation).
+- **`ps`**: Report a snapshot of current processes.
+- **`pstree`**: Display a tree of processes.
+- **`free`**: Display memory usage.
+- **`df`**: Report file system disk space usage.
+- **`du`**: Estimate file space usage.
+- **`uptime`**: Show how long the system has been running.
+- **`who`**: Show who is logged on.
+- **`whoami`**: Print the current user ID.
+- **`id`**: Print user and group IDs.
+- **`hostname`**: Show or set the system's hostname.
+- **`dmesg`**: Print or control the kernel ring buffer.
+- **`lscpu`**: Display CPU architecture information.
+- **`lsblk`**: List block devices.
+- **`lspci`**: List PCI devices.
+- **`lsusb`**: List USB devices.
+- **`vmstat`**: Report virtual memory statistics.
+- **`iostat`**: Report CPU and I/O statistics.

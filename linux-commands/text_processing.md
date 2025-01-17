@@ -1,0 +1,22 @@
+# Text Processing Commands
+
+- **`cat`**: Concatenate and display file content.
+- **`tac`**: Concatenate and display files in reverse.
+- **`more`**: View file content one screen at a time.
+- **`less`**: View file content with backward navigation.
+- **`head`**: Output the first part of files.
+- **`tail`**: Output the last part of files.
+- **`grep`**: Search for patterns in files.
+- **`egrep`**: Extended grep with additional pattern matching.
+- **`fgrep`**: Fixed-string grep (no regex).
+- **`awk`**: Pattern scanning and processing language.
+- **`sed`**: Stream editor for filtering and transforming text.
+- **`cut`**: Remove sections from each line of files.
+- **`paste`**: Merge lines of files.
+- **`sort`**: Sort lines of text files.
+- **`uniq`**: Report or omit repeated lines.
+- **`wc`**: Count lines, words, and characters in files.
+- **`diff`**: Compare files line by line.
+- **`patch`**: Apply changes to files.
+- **`tr`**: Translate or delete characters.
+- **`fmt`**: Simple text formatter.
